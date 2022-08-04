@@ -1,0 +1,3875 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.731111111,
+        "纬度": 28.54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7311111109957,
+          28.539999999996547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.460277778,
+        "纬度": 28.5266666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.46027777799127,
+          28.52666666669343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.699166667,
+        "纬度": 28.54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69916666699533,
+          28.53999999999627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.452222222,
+        "纬度": 28.5183333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45222222199111,
+          28.518333333293318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.808333333,
+        "纬度": 28.5033333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.80833333299653,
+          28.50333333329716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.660277778,
+        "纬度": 28.5033333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66027777799477,
+          28.50333333329591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.66,
+        "纬度": 28.503056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65999999999478,
+          28.503055999995909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.560555556,
+        "纬度": 28.4741666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5605555559932,
+          28.47416666669483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.771111111,
+        "纬度": 28.4813888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77111111099615,
+          28.481388888896889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.708333333,
+        "纬度": 28.4808333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.70833333299542,
+          28.48083333329638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.863055556,
+        "纬度": 28.4769444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.86305555599705,
+          28.476944444397544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.559722,
+        "纬度": 28.475556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5597219999932,
+          28.47555599999482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.724722222,
+        "纬度": 28.4661111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72472222199564,
+          28.466111111096525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.391666667,
+        "纬度": 28.4555555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39166666698964,
+          28.455555555592406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.725,
+        "纬度": 28.466111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72499999999562,
+          28.46611099999653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.583611111,
+        "纬度": 28.4502777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5836111109936,
+          28.45027777779512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.395555556,
+        "纬度": 28.4330555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39555555598976,
+          28.43305555559248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.594722222,
+        "纬度": 28.4394444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59472222199378,
+          28.43944444439526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.391667,
+        "纬度": 28.438889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39166699998964,
+          28.43888899999241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.782777778,
+        "纬度": 28.4438888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.78277777799628,
+          28.443888888896998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.858888889,
+        "纬度": 28.4319444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.85888888899702,
+          28.43194444439753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.522778,
+        "纬度": 28.427778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52277799999252,
+          28.427777999994388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.515277778,
+        "纬度": 28.4116666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51527777799237,
+          28.411666666694307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.516111111,
+        "纬度": 28.4111111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5161111109924,
+          28.411111111094308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.7725,
+        "纬度": 28.4066666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77249999999616,
+          28.406666666696947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.462777778,
+        "纬度": 28.3919444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4627777779913,
+          28.39194444439358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.866944444,
+        "纬度": 28.3983333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.86694444399707,
+          28.39833333329759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.848888889,
+        "纬度": 28.4033333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.84888888899691,
+          28.403333333297483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.462222,
+        "纬度": 28.387778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.46222199999127,
+          28.38777799999358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.7175,
+        "纬度": 28.3905555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71749999999553,
+          28.3905555555965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.785,
+        "纬度": 28.3833333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.78499999999628,
+          28.383333333297047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.861388889,
+        "纬度": 28.3827777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.86138888899703,
+          28.382777777797565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.717666667,
+        "纬度": 28.3866944444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71766666699553,
+          28.386694444396505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.7175,
+        "纬度": 28.390278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71749999999553,
+          28.390277999996504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.795,
+        "纬度": 28.3752777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79499999999638,
+          28.375277777797125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.664444444,
+        "纬度": 28.3769444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66444444399484,
+          28.376944444396025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.426944444,
+        "纬度": 28.3663888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4269444439905,
+          28.36638888889306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.799444444,
+        "纬度": 28.3791666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79944444399644,
+          28.379166666697154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.710278,
+        "纬度": 28.373056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71027799999543,
+          28.373055999996447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.67,
+        "纬度": 28.376389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66999999999492,
+          28.376388999996075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.8825,
+        "纬度": 28.3663888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8824999999972,
+          28.366388888897697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.475277778,
+        "纬度": 28.3547222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47527777799155,
+          28.35472222219379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.867222222,
+        "纬度": 28.3533333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.86722222199707,
+          28.353333333297614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.937222222,
+        "纬度": 28.3497222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.93722222199762,
+          28.349722222198005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.939166667,
+        "纬度": 28.3502777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.93916666699762,
+          28.350277777798018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.941111111,
+        "纬度": 28.3508333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.94111111099764,
+          28.350833333298025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.8675,
+        "纬度": 28.353056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.86749999999708,
+          28.353055999997616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.555555556,
+        "纬度": 28.3419444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55555555599311,
+          28.34194444439486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.778889,
+        "纬度": 28.335556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77888899999621,
+          28.335555999997025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.760833333,
+        "纬度": 28.3361111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76083333299602,
+          28.33611111109688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.806944444,
+        "纬度": 28.3155555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.80694444399652,
+          28.315555555597237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.819166667,
+        "纬度": 28.3222222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.81916666699661,
+          28.32222222219731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.826667,
+        "纬度": 28.3225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82666699999668,
+          28.322499999997363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.741944444,
+        "纬度": 28.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7419444439958,
+          28.319999999996737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.52,
+        "纬度": 28.3013888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51999999999245,
+          28.301388888894445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.709167,
+        "纬度": 28.303611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7091669999954,
+          28.303610999996474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.518611,
+        "纬度": 28.302222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51861099999243,
+          28.30222199999443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.684722,
+        "纬度": 28.293056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68472199999508,
+          28.293055999996257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.630555556,
+        "纬度": 28.2755555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63055555599432,
+          28.275555555595746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.679444444,
+        "纬度": 28.28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67944444399501,
+          28.279999999996219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.682222222,
+        "纬度": 28.2791666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68222222199506,
+          28.279166666696246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.698333333,
+        "纬度": 28.2861111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69833333299526,
+          28.286111111096387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.736666667,
+        "纬度": 28.2783333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73666666699575,
+          28.278333333296719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.642222222,
+        "纬度": 28.2772222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6422222219945,
+          28.277222222195858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.681667,
+        "纬度": 28.279444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68166699999503,
+          28.279443999996244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.629722,
+        "纬度": 28.275833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6297219999943,
+          28.27583299999573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.880277778,
+        "纬度": 28.2836111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88027777799717,
+          28.28361111109771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.569166667,
+        "纬度": 28.2686111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56916666699336,
+          28.26861111109507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.498888889,
+        "纬度": 28.2608333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49888888899202,
+          28.260833333294199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.561666667,
+        "纬度": 28.2627777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5616666669932,
+          28.262777777794989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.493611111,
+        "纬度": 28.2672222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4936111109919,
+          28.26722222219412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.6825,
+        "纬度": 28.2666666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68249999999508,
+          28.266666666696254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.57,
+        "纬度": 28.269722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56999999999334,
+          28.269721999995086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.800278,
+        "纬度": 28.265833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.80027799999644,
+          28.265832999997209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.749444444,
+        "纬度": 28.2636111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.74944444399587,
+          28.263611111096826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.809444444,
+        "纬度": 28.2625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.80944444399651,
+          28.262499999997265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.438888889,
+        "纬度": 28.2555555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4388888889907,
+          28.255555555593344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.751944,
+        "纬度": 28.263333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7519439999959,
+          28.263332999996846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.4275,
+        "纬度": 28.257778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42749999999046,
+          28.25777799999317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.445556,
+        "纬度": 28.256944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44555599999086,
+          28.256943999993447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.458056,
+        "纬度": 28.249722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45805599999116,
+          28.249721999993637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.557777778,
+        "纬度": 28.2386111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55777777799314,
+          28.23861111109496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.534722222,
+        "纬度": 28.2394444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5347222219927,
+          28.23944444439468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.736111111,
+        "纬度": 28.2455555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73611111099572,
+          28.245555555596725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.546388889,
+        "纬度": 28.2452777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54638888899292,
+          28.245277777794809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.826666667,
+        "纬度": 28.2502777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82666666699667,
+          28.25027777779739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.823055556,
+        "纬度": 28.2497222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82305555599666,
+          28.24972222219737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.823888889,
+        "纬度": 28.2486111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82388888899668,
+          28.248611111097376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.533611111,
+        "纬度": 28.2425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5336111109927,
+          28.24249999999466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.564,
+        "纬度": 28.2426388889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56399999999323,
+          28.242638888895038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.558611,
+        "纬度": 28.24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55861099999314,
+          28.23999999999497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.582222222,
+        "纬度": 28.2291666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58222222199355,
+          28.22916666669525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.586388889,
+        "纬度": 28.2361111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58638888899363,
+          28.236111111095299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.584722222,
+        "纬度": 28.2347222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58472222199359,
+          28.23472222219527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.427777778,
+        "纬度": 28.2275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42777777799047,
+          28.227499999993204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.738888889,
+        "纬度": 28.235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73888888899575,
+          28.23499999999675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.5425,
+        "纬度": 28.2275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54249999999284,
+          28.227499999994789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.89,
+        "纬度": 28.2336111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88999999999726,
+          28.233611111097777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.428056,
+        "纬度": 28.227222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42805599999046,
+          28.227221999993206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.738611,
+        "纬度": 28.236111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73861099999574,
+          28.23611099999675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.442222222,
+        "纬度": 28.2186111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44222222199078,
+          28.21861111109343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.724444444,
+        "纬度": 28.2255555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7244444439956,
+          28.225555555596644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.556111111,
+        "纬度": 28.2222222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55611111099309,
+          28.222222222194956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.442778,
+        "纬度": 28.218611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44277799999083,
+          28.218610999993435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.725556,
+        "纬度": 28.226111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7255559999956,
+          28.226110999996647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.675277778,
+        "纬度": 28.2186111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67527777799495,
+          28.218611111096214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.689166667,
+        "纬度": 28.2163888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68916666699515,
+          28.216388888896338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.567777778,
+        "纬度": 28.2138888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56777777799329,
+          28.2138888888951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.667777778,
+        "纬度": 28.2127777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66777777799486,
+          28.212777777796139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.664166667,
+        "纬度": 28.2097222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66416666699482,
+          28.209722222196118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.745833333,
+        "纬度": 28.21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.74583333299582,
+          28.209999999996826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.678888889,
+        "纬度": 28.2058333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.678888888995,
+          28.205833333296249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.689444,
+        "纬度": 28.216667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68944399999512,
+          28.21666699999634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.568889,
+        "纬度": 28.213889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56888899999329,
+          28.21388899999511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.669722,
+        "纬度": 28.210833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66972199999488,
+          28.21083299999616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.670556,
+        "纬度": 28.206944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67055599999489,
+          28.206943999996175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.660833,
+        "纬度": 28.214722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66083299999474,
+          28.214721999996077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.6725,
+        "纬度": 28.208056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67249999999493,
+          28.208055999996185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.664722,
+        "纬度": 28.216111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6647219999948,
+          28.216110999996116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.626944,
+        "纬度": 28.205278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62694399999426,
+          28.205277999995749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.494444444,
+        "纬度": 28.2013888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4944444439919,
+          28.20138888889418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.636111,
+        "纬度": 28.203333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6361109999944,
+          28.203332999995845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.635,
+        "纬度": 28.201944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63499999999438,
+          28.201943999995828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.633056,
+        "纬度": 28.196667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63305599999436,
+          28.196666999995818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.541944,
+        "纬度": 28.198889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54194399999284,
+          28.198888999994798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.648055556,
+        "纬度": 28.1908333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64805555599456,
+          28.190833333295964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.735277778,
+        "纬度": 28.1902777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7352777779957,
+          28.19027777779674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.845555556,
+        "纬度": 28.1922222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.84555555599686,
+          28.192222222197537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.813888889,
+        "纬度": 28.1872222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.81388888899656,
+          28.187222222197329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.736389,
+        "纬度": 28.190278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73638899999571,
+          28.19027799999675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.796667,
+        "纬度": 28.1875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79666699999638,
+          28.187499999997209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.561667,
+        "纬度": 28.183889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5616669999932,
+          28.183888999995046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.691111,
+        "纬度": 28.193611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69111099999518,
+          28.19361099999637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.513888889,
+        "纬度": 28.1802777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5138888889923,
+          28.180277777794463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.515,
+        "纬度": 28.1797222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51499999999233,
+          28.179722222194476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.793611111,
+        "纬度": 28.1863888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79361111099637,
+          28.186388888897189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.770555556,
+        "纬度": 28.1730555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77055555599613,
+          28.173055555597029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.559444444,
+        "纬度": 28.1725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55944444399312,
+          28.172499999995027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.791666667,
+        "纬度": 28.1758333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79166666699635,
+          28.175833333297179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.821111,
+        "纬度": 28.182778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82111099999665,
+          28.182777999997375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.448888889,
+        "纬度": 28.1741666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44888888899095,
+          28.174166666693567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.843611111,
+        "纬度": 28.1758333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.84361111099685,
+          28.175833333297527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.417222222,
+        "纬度": 28.1602777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.41722222199022,
+          28.1602777777931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.416388889,
+        "纬度": 28.1602777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.41638888899019,
+          28.160277777793089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.443055556,
+        "纬度": 28.1561111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44305555599078,
+          28.15611111109349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.48,
+        "纬度": 28.1594444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47999999999162,
+          28.159444444394017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.770833333,
+        "纬度": 28.1716666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77083333299612,
+          28.17166666669703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.810277778,
+        "纬度": 28.1702777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.81027777799652,
+          28.170277777797307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.730833333,
+        "纬度": 28.1616666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73083333299566,
+          28.161666666696719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.726944444,
+        "纬度": 28.1622222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72694444399558,
+          28.162222222196694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.4175,
+        "纬度": 28.160278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4174999999902,
+          28.16027799999311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.475833,
+        "纬度": 28.158333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47583299999153,
+          28.158332999993964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.751111,
+        "纬度": 28.170833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75111099999589,
+          28.170832999996877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.812222,
+        "纬度": 28.170278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.81222199999654,
+          28.17027799999732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.675277778,
+        "纬度": 28.1602777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67527777799492,
+          28.160277777796247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.727777778,
+        "纬度": 28.1627777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72777777799561,
+          28.162777777796696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.786111111,
+        "纬度": 28.1716666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.78611111099628,
+          28.17166666669714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.786944444,
+        "纬度": 28.1713888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.78694444399629,
+          28.171388888897146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.810277778,
+        "纬度": 28.1688888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.81027777799652,
+          28.168888888897315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.675277778,
+        "纬度": 28.155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67527777799492,
+          28.154999999996247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.565,
+        "纬度": 28.1494444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56499999999324,
+          28.149444444395109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.512222222,
+        "纬度": 28.1488888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51222222199228,
+          28.14888888889446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.512777778,
+        "纬度": 28.145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51277777799227,
+          28.144999999994469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.489722222,
+        "纬度": 28.1458333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48972222199181,
+          28.145833333294168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.74,
+        "纬度": 28.1519444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73999999999575,
+          28.151944444396798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.645833333,
+        "纬度": 28.1505555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64583333299452,
+          28.150555555595966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.568333333,
+        "纬度": 28.1505555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56833333299329,
+          28.15055555559514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.568333333,
+        "纬度": 28.1511111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56833333299329,
+          28.151111111095145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.564722222,
+        "纬度": 28.1488888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56472222199322,
+          28.148888888895099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.490278,
+        "纬度": 28.146944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49027799999182,
+          28.14694399999417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.462778,
+        "纬度": 28.149444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.46277799999125,
+          28.14944399999379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.6775,
+        "纬度": 28.154722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67749999999495,
+          28.154721999996267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.645278,
+        "纬度": 28.151667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64527799999454,
+          28.151666999995965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.739444,
+        "纬度": 28.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73944399999576,
+          28.149999999996788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.489166667,
+        "纬度": 28.1488888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48916666699178,
+          28.148888888894157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.587777778,
+        "纬度": 28.1530555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58777777799361,
+          28.153055555595367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.75,
+        "纬度": 28.1541666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.74999999999587,
+          28.154166666696875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.677777778,
+        "纬度": 28.1397222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67777777799499,
+          28.139722222196278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.626944444,
+        "纬度": 28.1391666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62694444399425,
+          28.139166666695787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.570277778,
+        "纬度": 28.1347222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.57027777799336,
+          28.13472222219517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.823888889,
+        "纬度": 28.1436111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82388888899665,
+          28.14361111109741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.744444444,
+        "纬度": 28.1488888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7444444439958,
+          28.14888888889683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.5375,
+        "纬度": 28.145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53749999999275,
+          28.144999999994778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.513889,
+        "纬度": 28.144444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5138889999923,
+          28.144443999994487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.574722,
+        "纬度": 28.135833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.57472199999342,
+          28.135832999995228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.670556,
+        "纬度": 28.138333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67055599999489,
+          28.13833299999621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.575556,
+        "纬度": 28.137222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.57555599999343,
+          28.137221999995235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.604167,
+        "纬度": 28.138333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.60416699999391,
+          28.138332999995546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.824444,
+        "纬度": 28.143611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82444399999668,
+          28.143610999997415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.628055556,
+        "纬度": 28.14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62805555599427,
+          28.13999999999579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.67,
+        "纬度": 28.1355555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66999999999486,
+          28.135555555596207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.649166667,
+        "纬度": 28.1286111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64916666699459,
+          28.12861111109601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.790833333,
+        "纬度": 28.1305555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79083333299632,
+          28.130555555597188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.628055556,
+        "纬度": 28.1241666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62805555599427,
+          28.1241666666958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.596666667,
+        "纬度": 28.1263888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59666666699377,
+          28.12638888889547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.823333333,
+        "纬度": 28.1308333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82333333299663,
+          28.130833333297415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.804166667,
+        "纬度": 28.1377777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.80416666699647,
+          28.137777777797277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.633056,
+        "纬度": 28.1325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63305599999433,
+          28.132499999995845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.646944,
+        "纬度": 28.128611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64694399999454,
+          28.128610999995993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.791111,
+        "纬度": 28.131389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79111099999635,
+          28.13138899999719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.665555556,
+        "纬度": 28.1266666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6655555559948,
+          28.126666666696168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.825277778,
+        "纬度": 28.1291666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82527777799666,
+          28.129166666697424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.775,
+        "纬度": 28.1219444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77499999999617,
+          28.121944444397078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.775,
+        "纬度": 28.1225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77499999999617,
+          28.122499999997076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.612222222,
+        "纬度": 28.1227777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61222222199402,
+          28.122777777795645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.610277778,
+        "纬度": 28.1233333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61027777799396,
+          28.12333333329562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.633888889,
+        "纬度": 28.1225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63388888899435,
+          28.122499999995865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.611111,
+        "纬度": 28.123611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61111099999398,
+          28.12361099999563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.776111,
+        "纬度": 28.1225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77611099999617,
+          28.122499999997083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.776111,
+        "纬度": 28.121944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.77611099999617,
+          28.121943999997084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.6325,
+        "纬度": 28.118611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63249999999431,
+          28.118610999995853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.585277778,
+        "纬度": 28.1097222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58527777799358,
+          28.109722222195356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.636388889,
+        "纬度": 28.1036111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63638888899439,
+          28.103611111095906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.638055556,
+        "纬度": 28.1077777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63805555599441,
+          28.107777777795915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.585,
+        "纬度": 28.1094444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58499999999357,
+          28.109444444395359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.593611,
+        "纬度": 28.1025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59361099999373,
+          28.10249999999545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.638333,
+        "纬度": 28.107778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6383329999944,
+          28.107777999995915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.721667,
+        "纬度": 28.1075
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72166699999555,
+          28.107499999996674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.683333,
+        "纬度": 28.111944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68333299999503,
+          28.11194399999634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.580555556,
+        "纬度": 28.1113888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58055555599349,
+          28.111388888895307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.591111111,
+        "纬度": 28.1055555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59111111099367,
+          28.105555555595424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.591111111,
+        "纬度": 28.1061111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59111111099367,
+          28.106111111095424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.634722222,
+        "纬度": 28.1072222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63472222199434,
+          28.107222222195884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.755,
+        "纬度": 28.0944444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75499999999592,
+          28.09444444439694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.801666667,
+        "纬度": 28.0952777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.80166666699646,
+          28.09527777779728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.601388889,
+        "纬度": 28.0966666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.60138888899385,
+          28.09666666669554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.738333333,
+        "纬度": 28.0944444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73833333299572,
+          28.09444444439681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.746666667,
+        "纬度": 28.0983333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.74666666699582,
+          28.09833333329688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.601667,
+        "纬度": 28.096944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.60166699999385,
+          28.096943999995547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.651944,
+        "纬度": 28.096389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65194399999462,
+          28.096388999996056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.650277778,
+        "纬度": 28.0972222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65027777799459,
+          28.097222222196039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.765277778,
+        "纬度": 28.0872222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76527777799604,
+          28.08722222219702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.761944444,
+        "纬度": 28.0869444444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76194444399599,
+          28.08694444439699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.798611111,
+        "纬度": 28.0866666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.79861111099639,
+          28.08666666669726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.606666667,
+        "纬度": 28.0847222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.60666666699392,
+          28.08472222219561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.731388889,
+        "纬度": 28.0808333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73138888899566,
+          28.080833333296764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.7625,
+        "纬度": 28.0866666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76249999999601,
+          28.086666666697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.625833,
+        "纬度": 28.081111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62583299999423,
+          28.0811109999958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.763056,
+        "纬度": 28.086944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76305599999603,
+          28.086943999997005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.715,
+        "纬度": 28.088333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71499999999544,
+          28.088332999996625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.604167,
+        "纬度": 28.086111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.60416699999388,
+          28.08611099999558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.735,
+        "纬度": 28.0686111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7349999999957,
+          28.0686111110968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.629722222,
+        "纬度": 28.0677777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62972222199427,
+          28.067777777795848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.722777778,
+        "纬度": 28.0722222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72277777799555,
+          28.0722222221967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.715278,
+        "纬度": 28.076667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71527799999545,
+          28.07666699999663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.736111,
+        "纬度": 28.068611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73611099999569,
+          28.06861099999681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.76,
+        "纬度": 28.0791666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75999999999597,
+          28.079166666696986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.663888889,
+        "纬度": 28.0552777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66388888899478,
+          28.055277777796193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.671666667,
+        "纬度": 28.0630555556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67166666699488,
+          28.063055555596259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.666666667,
+        "纬度": 28.0572222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6666666669948,
+          28.05722222219621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.669722222,
+        "纬度": 28.0613888889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66972222199488,
+          28.061388888896248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.671388889,
+        "纬度": 28.0622222222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6713888889949,
+          28.062222222196256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.735,
+        "纬度": 28.058889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7349999999957,
+          28.058888999996804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.668056,
+        "纬度": 28.056944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66805599999484,
+          28.056943999996233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.667778,
+        "纬度": 28.052222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66777799999483,
+          28.052221999996236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.7225,
+        "纬度": 28.038611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72249999999555,
+          28.038610999996707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.658889,
+        "纬度": 28.042222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65888899999472,
+          28.042221999996145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UserID": 0,
+        "经度": 120.748889,
+        "纬度": 28.036667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.74888899999586,
+          28.036666999996915
+        ]
+      }
+    }
+  ]
+}
